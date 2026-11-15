@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Family Compass",
+    "slug": "family-compass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F7FB"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.familycompass.app"
+    },
+    "android": {
+      "package": "com.familycompass.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F7FB"
+      }
+    }
+  }
+}
